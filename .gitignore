@@ -3,6 +3,7 @@ __pycache__
 
 *venv*
 .env
+.env.local
 
 **/.python-version
 
@@ -11,3 +12,5 @@ __pycache__
 .obsidian
 
 .DS_Store
+
+*.session.sql
